@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/context-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/immer-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-redux-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/styling-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/what-is-react" vcs="Git" />
+  </component>
+</project>
