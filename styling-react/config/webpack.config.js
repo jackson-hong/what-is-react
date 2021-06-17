@@ -164,7 +164,7 @@ module.exports = function (webpackEnv) {
       ? shouldUseSourceMap
         ? "source-map"
         : false
-      : isEnvDevelopment && "cheap-module-source-map",
+      : isEnvDevelopment && "cheap-modules-source-map",
     // These are the "entry points" to our application.
     // This means they will be the "root" imports that are included in JS bundle.
     entry:
@@ -225,7 +225,7 @@ module.exports = function (webpackEnv) {
       // are used on the same page.
       jsonpFunction: `webpackJsonp${appPackageJson.name}`,
       // this defaults to 'window', but by setting it to 'this' then
-      // module chunks which are built will work in web workers as well.
+      // modules chunks which are built will work in web workers as well.
       globalObject: "this",
     },
     optimization: {
@@ -341,7 +341,7 @@ module.exports = function (webpackEnv) {
         // Prevents users from importing files from outside of src/ (or node_modules/).
         // This often causes confusion because we only process files within src/ with babel.
         // To fix this, we prevent you from importing files out of src/ -- if you'd like to,
-        // please link the files into your node_modules/ and let module-resolution kick in.
+        // please link the files into your node_modules/ and let modules-resolution kick in.
         // Make sure your source files are compiled, as they will not be processed in any way.
         new ModuleScopePlugin(paths.appSrc, [
           paths.appPackageJson,
@@ -465,7 +465,7 @@ module.exports = function (webpackEnv) {
             // In production, we use MiniCSSExtractPlugin to extract that CSS
             // to a file, but in development "style" loader enables hot editing
             // of CSS.
-            // By default we support CSS Modules with the extension .module.css
+            // By default we support CSS Modules with the extension .modules.css
             {
               test: cssRegex,
               exclude: cssModuleRegex,
@@ -482,7 +482,7 @@ module.exports = function (webpackEnv) {
               sideEffects: true,
             },
             // Adds support for CSS Modules (https://github.com/css-modules/css-modules)
-            // using the extension .module.css
+            // using the extension .modules.css
             {
               test: cssModuleRegex,
               use: getStyleLoaders({
@@ -497,7 +497,7 @@ module.exports = function (webpackEnv) {
             },
             // Opt-in support for SASS (using .scss or .sass extensions).
             // By default we support SASS Modules with the
-            // extensions .module.scss or .module.sass
+            // extensions .modules.scss or .modules.sass
             {
               test: sassRegex,
               exclude: sassModuleRegex,
@@ -522,7 +522,7 @@ module.exports = function (webpackEnv) {
               sideEffects: true,
             },
             // Adds support for CSS Modules, but using SASS
-            // using the extension .module.scss or .module.sass
+            // using the extension .modules.scss or .modules.sass
             {
               test: sassModuleRegex,
               use: getStyleLoaders(
@@ -599,7 +599,7 @@ module.exports = function (webpackEnv) {
       // It will be an empty string unless you specify "homepage"
       // in `package.json`, in which case it will be the pathname of that URL.
       new InterpolateHtmlPlugin(HtmlWebpackPlugin, env.raw),
-      // This gives some necessary context to module not found errors, such as
+      // This gives some necessary context to modules not found errors, such as
       // the requesting resource.
       new ModuleNotFoundPlugin(paths.appPath),
       // Makes some environment variables available to the JS code, for example:
@@ -618,7 +618,7 @@ module.exports = function (webpackEnv) {
           overlay: {
             entry: webpackDevClientEntry,
             // The expected exports are slightly different from what the overlay exports,
-            // so an interop is included here to enable feedback on module-level errors.
+            // so an interop is included here to enable feedback on modules-level errors.
             module: reactRefreshOverlayEntry,
             // Since we ship a custom dev client and overlay integration,
             // the bundled socket handling logic can be eliminated.
@@ -629,7 +629,7 @@ module.exports = function (webpackEnv) {
       // a plugin that prints an error when you attempt to do this.
       // See https://github.com/facebook/create-react-app/issues/240
       isEnvDevelopment && new CaseSensitivePathsPlugin(),
-      // If you require a missing module and then `npm install` it, you still have
+      // If you require a missing modules and then `npm install` it, you still have
       // to restart the development server for webpack to discover it. This plugin
       // makes the discovery automatic so you don't have to restart.
       // See https://github.com/facebook/create-react-app/issues/186
