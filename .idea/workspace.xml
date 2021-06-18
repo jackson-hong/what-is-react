@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10964939-1973-4317-993c-53c73c7d2e4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoInsert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoInsert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoTemplate.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +24,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -47,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,7 +117,7 @@
       <workItem from="1623550039112" duration="5000" />
       <workItem from="1623550049474" duration="1121000" />
       <workItem from="1623551405869" duration="4909000" />
-      <workItem from="1623828053397" duration="2322000" />
+      <workItem from="1623828053397" duration="32106000" />
     </task>
     <servers />
   </component>
