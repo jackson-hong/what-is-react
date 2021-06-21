@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10964939-1973-4317-993c-53c73c7d2e4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoInsert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoInsert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoTemplate.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-myself/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,7 @@
       <workItem from="1623550039112" duration="5000" />
       <workItem from="1623550049474" duration="1121000" />
       <workItem from="1623551405869" duration="4909000" />
-      <workItem from="1623828053397" duration="32106000" />
+      <workItem from="1623828053397" duration="41769000" />
     </task>
     <servers />
   </component>
