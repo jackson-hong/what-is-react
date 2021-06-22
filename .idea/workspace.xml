@@ -5,13 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10964939-1973-4317-993c-53c73c7d2e4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/components/common/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/lib/styles/palette.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/modules/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/pages/LoginPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/pages/PostListPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/pages/PostPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/pages/RegisterPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/pages/WritePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/components/Todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/containers/CounterContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/containers/TodoContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/modules/todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-redux-tutorial2/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/src/components/TodoListItem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice-myself/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-myself/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +66,8 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,12 +84,15 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1sR7L6qgVyW4vH42lo42HwW4eac" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -114,7 +160,7 @@
       <workItem from="1623550039112" duration="5000" />
       <workItem from="1623550049474" duration="1121000" />
       <workItem from="1623551405869" duration="4909000" />
-      <workItem from="1623828053397" duration="41769000" />
+      <workItem from="1623828053397" duration="58242000" />
     </task>
     <servers />
   </component>
@@ -132,6 +178,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
